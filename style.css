@@ -1,0 +1,45 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#bedroom
+{
+    width: 400;
+    height: 40;
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+#bookshelf
+{
+    width: 400;
+    height: 40;
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+#poster
+{
+    width: 400;
+    height: 40;
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+#dresser
+{
+    width: 400;
+    height: 40;
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+#desk
+{
+    width: 400;
+    height: 40;
+    background-color: lightpink;
+    border-radius: 20px;
+}
